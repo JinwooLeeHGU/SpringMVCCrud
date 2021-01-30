@@ -23,4 +23,5 @@
 	</c:forEach>
 </table>
 <br />
-<a href="empform">Add New Employee</a>
+<a href="empform">Add New Employee</a> <br>
+<a href="product-input-form">Add New Products</a>
